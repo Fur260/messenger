@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Messenger 2.0
 
-## Getting Started
+Messenger 2.0 is an innovative real-time messaging application built with cutting-edge web development technologies. Offering a seamless user experience, it stands out as a fully-functional and visually stunning chat platform that competes with the best in the industry.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Real-Time Messaging:** Utilizes Pusher for instant message delivery.
+- **Notifications and Alerts:** Keeps users informed with message notifications.
+- **Sleek UI with Animations:** Offers a visually appealing interface with smooth transition effects.
+- **Full Responsiveness:** Ensures seamless usage across all devices.
+- **Authentication Integration:** Supports Google and Github authentication for user convenience.
+- **File and Image Upload:** Allows users to share files and images within chats.
+- **Message Read Receipts:** Provides read receipts for sent messages.
+- **Online/Offline Status:** Displays user availability.
+- **Group and One-on-One Chats:** Supports both group and individual messaging.
+- **File Sharing:** Enables attachment and sharing of various file types.
+- **User Profile Customization:** Allows users to personalize their profiles and settings.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js:** For efficient and scalable web applications.
+- **React:** For building dynamic user interfaces.
+- **Next Auth:** For seamless authentication integration.
+- **Pusher:** For real-time communication.
+- **ZuStand:** For managing state.
+- **TypeScript:** For type-checking and enhanced developer experience.
+- **Headless UI:** For accessible and composable components.
+- **Tailwind CSS:** For rapid UI development with a utility-first approach.
+- **React Icons:** For scalable vector icons.
+- **React Spinners:** For loading spinners.
+- **React Hook Form:** For flexible and efficient form handling.
+- **React Hot Toast:** For customizable toast notifications.
+- **React Select:** For enhanced dropdowns and selection controls.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Live URL
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Experience Messenger 2.0 in action: [Live URL](https://messenger-u-me.vercel.app/)
